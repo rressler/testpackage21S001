@@ -1,5 +1,5 @@
 Package: testpackage21S001
-Title: Demo creating a package for 413/613-001
+Title: Demo creating a new package for 413/613-001
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Richard",
