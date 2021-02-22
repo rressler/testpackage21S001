@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Not very much right now
+Description: Not very much right now.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
