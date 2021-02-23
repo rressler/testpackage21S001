@@ -26,3 +26,5 @@ Imports:
     dplyr (>= 1.0.4)
 Config/testthat/edition: 3
 VignetteBuilder: knitr
+URL: https://github.com/rressler/testpackage21S001
+BugReports: https://github.com/rressler/testpackage21S001/issues
